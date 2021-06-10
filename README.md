@@ -1,11 +1,6 @@
 # machine-learning
 
 ### Multivariate Regression using Gradient Descent
-
-### Correlation
-![alt text](https://github.com/nik-neg/machine-learning/blob/main/images/1_corr.png)
-
-
 <table>
 <tr><th>Metrics</th></tr>
 <tr><td>
